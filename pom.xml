@@ -9,7 +9,7 @@
 	<name>Joda UserTypes for Hibernate</name>
 	<description>UserType library for Joda objects.  Allows direct persistence of Joda objects using the Type configuration</description>
 	<packaging>jar</packaging>
-	<version>0.1.0</version>
+	<version>0.2.0-SNAPSHOT</version>
 
 	<developers>
 		<developer>
